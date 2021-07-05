@@ -1,4 +1,4 @@
-# Node.js Rest APIs with Express, Sequelize & MySQL example
+# React, Node.js with Express, MySQL login
 
 This is a fullstack project using Nodejs, React, Express and MySQL. The goal for the
 project was to design a login form to fill out personal details (name, address) and store
