@@ -4,15 +4,17 @@ This is a fullstack project using Nodejs, React, Express and MySQL. The goal for
 project was to design a login form to fill out personal details (name, address) and store
 Them into a database. This database will show the users details on a table. 
 
-Security:
-
-Associations:
-> [Sequelize Associations: One-to-Many Relationship example](https://bezkoder.com/sequelize-associate-one-to-many/)
-
-> [Sequelize Associations: Many-to-Many Relationship example](https://bezkoder.com/sequelize-associate-many-to-many/)
 
 Fullstack:
 Integration (run back-end & front-end on same server/port)
+
+React:
+I used React for the frontend side of the project. 
+The react files is inside the build folder called view. 
+
+Node, Express and MYSQL:
+This was used for the backend side to store any information of the form
+on a database table.  
 
 ## Project setup
 ```
